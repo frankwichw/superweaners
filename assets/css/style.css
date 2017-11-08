@@ -1,0 +1,71 @@
+#mainContent {
+	float: left;
+	background-color: #fff;
+	width: 586px;
+	margin-left: 20px;
+	margin-top: 40px;
+	padding: 30px;
+}
+	
+#weaners {
+	width: 530px;
+	margin: auto;
+	display: block;
+	margin-bottom: 10px;
+}
+
+#wrapper {
+	width: 970px;
+	margin: auto;
+
+}
+
+#title {
+	margin: auto;
+	width: 190px;
+	margin-bottom: -80px;
+}
+
+body {
+	background-image: url(../images/wormz.png);
+	color: #303030;
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+header {
+	height: 150px;
+	width: 100%;
+	background-color: #fff;
+}
+
+footer {
+	clear: both;
+}
+
+aside {
+	float: left;
+	background-color: #fff;
+	width: 224px;
+	margin-right: 20px;
+	margin-top: 40px;
+	padding: 30px;
+}
+
+h1 {
+	font-size: 2em;
+	line-height: 2.5em;
+	color: #303030;
+}
+
+h2 {
+	font-size: 1.5em;
+	line-height: 2.0em;
+	color: #303030;
+}
+
+h3 {
+	font-size: 1.3em;
+	line-height: 1.7em;
+	color: #303030;
+}
