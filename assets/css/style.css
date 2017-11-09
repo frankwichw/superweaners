@@ -1,3 +1,13 @@
+.stretch {
+	background-color: #fff;
+	width: 100%;
+	height: 220px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 30px;
+	clear: both;
+}
+
 #mainContent {
 	float: left;
 	background-color: #fff;
@@ -22,21 +32,32 @@
 
 #title {
 	margin: auto;
-	width: 190px;
-	margin-bottom: -80px;
+	width: 977px;
+	
+}
+
+#titleText {
+	font-size: 9em;
+	color: #fff;
+	line-height: 1em;
 }
 
 body {
-	background-image: url(../images/wormz.png);
+	background-image: url(../images/dark_embroidery.png);
 	color: #303030;
 	font-size: 16px;
 	line-height: 1.5em;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 header {
 	height: 150px;
 	width: 100%;
 	background-color: #fff;
+	background-image: url(../images/ocean.jpeg);
+	background-size: cover;                      
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 footer {
@@ -52,20 +73,27 @@ aside {
 	padding: 30px;
 }
 
+article {
+	text-align: center;
+}
+
 h1 {
 	font-size: 2em;
 	line-height: 2.5em;
 	color: #303030;
+	font-family: 'Rozha One', serif;
 }
 
 h2 {
 	font-size: 1.5em;
 	line-height: 2.0em;
 	color: #303030;
+	font-family: 'Rozha One', serif;
 }
 
 h3 {
 	font-size: 1.3em;
 	line-height: 1.7em;
 	color: #303030;
+	font-family: 'Rozha One', serif;
 }
