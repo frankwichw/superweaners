@@ -4,7 +4,8 @@
 	height: 220px;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	padding: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	clear: both;
 }
 
@@ -19,7 +20,7 @@
 }
 	
 #weaners {
-	width: 530px;
+	width: 581px;
 	margin: auto;
 	display: block;
 	margin-bottom: 10px;
@@ -40,6 +41,10 @@
 	font-size: 9em;
 	color: #fff;
 	line-height: 1em;
+}
+
+#footerText {
+	margin-bottom: 10px;
 }
 
 body {
@@ -66,7 +71,8 @@ footer {
 	height: 100px;
 	width: 100%;
 	margin-top: -100px;
-	color: #fff;
+	color: #9e9e9e;
+	text-align: center;
 }
 
 aside {
