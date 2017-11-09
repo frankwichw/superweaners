@@ -43,8 +43,10 @@
 	line-height: 1em;
 }
 
-#footerText {
-	margin-bottom: 10px;
+#copyright {
+    text-align: center;
+    margin-top: 40px;
+    line-height: 1em;
 }
 
 body {
@@ -107,4 +109,25 @@ h3 {
 	line-height: 1.7em;
 	color: #303030;
 	font-family: 'Rozha One', serif;
+}
+
+/* unvisited link */
+a:link {
+    color: #707070;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #707070;
+}
+
+/* mouse over link */
+a:hover {
+    color: #9e9e9e;
+}
+
+/* selected link */
+a:active {
+    color: #9e9e9e;
 }
