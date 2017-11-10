@@ -70,11 +70,12 @@ header {
 footer {
 	clear: both;
 	background-color: #707070;
-	height: 100px;
+	height: 80px;
 	width: 100%;
 	margin-top: -100px;
 	color: #9e9e9e;
 	text-align: center;
+	padding-top: 20px;
 }
 
 aside {
